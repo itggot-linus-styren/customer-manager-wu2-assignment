@@ -1,5 +1,4 @@
 <template>
-  <input data-cy="search" v-model="search" />
   <table class="pure-table">
     <thead>
       <th>Förnamn</th>
